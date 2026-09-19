@@ -8,10 +8,6 @@ git commit: sirve para comentar los cambios que vamos a subir al repositorio
 git push: sirve para subir los cambios hacia el repositorio de git
 git branch: sirve para crear, listar o eliminar ramas  
 git diff: sirve para ver que cambios hay respecto al ultimo commit
-<<<<<<< HEAD
 git checkout: sirve para cambiar entre ramas 
-git log: sirve para ver el historial de commits 
-git restore: sirve para deshacer cambios en un archivo sin borrar
-=======
-git checkout: sirve para cambiar entre ramas 
->>>>>>> da57406c31bfd4738f92ff1a0b8b74f2a23be077
+git log: sirve para ver el historial de cmabios en el commit 
+git restore: sirve para deshacer cambios en un archivo sin necesidad de borrar nada 
